@@ -3,9 +3,14 @@ h1 {
     font-size: 30pt;
 }
 
+h5 {
+    color: black;
+    font-size: 15pt;
+}
+
 p {
     color: black;
-    font-size: 14pt;
+    font-size: 12pt;
 }
 
 body {
