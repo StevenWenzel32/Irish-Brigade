@@ -1,2 +1,2 @@
-# Website-project-for-CSP
-Freshman year CSP Website 2018-2019 
+# The-Irish-Brigade
+Freshman year CSP website 2018-2019 turned hobby.
