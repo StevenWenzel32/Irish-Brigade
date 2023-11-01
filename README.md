@@ -1,2 +1,2 @@
 # The-Irish-Brigade
-Freshman year CSP website 2018-2019 turned hobby.
+Computer Science Principles website, made in 2018-2019, based on my history research hobby.
